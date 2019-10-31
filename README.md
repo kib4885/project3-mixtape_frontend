@@ -9,7 +9,9 @@
 * [Screenshots](#screenshots)
 * [Future Developments](#future-developments)
 ​
-​
+## Note:
+This part of the code is dedicated to the front-end portion of the app. The front and back ends are merged through heroku. ​
+
 ## About:
 We created an app that will allows users who use Spotify to add/banish songs from their favorite playlists. They will have the ability to choose from their current personal playlists which playlist they would like to add the new songs to from a favorite playlist. Also when they banish a song they will be able to keep track of which songs have been banished. They will be able to preview the songs before they add them or banish them which helps with the process of creating the perfect playlist the user is looking to have.
 ​
